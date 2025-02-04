@@ -1,11 +1,11 @@
-## Gesture-Controlled-Media-Player-System
+# Gesture-Controlled-Media-Player-System
 Developed a Machine Learning project which include handling media operations such as play, pause etc using hand gestures.
 
-**Tech Stack-**<br>
+##**Tech Stack-**<br>
 *Convolutional Neural Networks(CNN)*  
 *Libraries : Tensorflow, keras, OpenCV, PyAutoGui.*
 
-**Functionality-**<br>
+##**Functionality-**<br>
 Gestures and their respective mapped functions:
 1.no-action-no-gesture  
 2.play/pause-Palm Open  
@@ -15,4 +15,4 @@ Gestures and their respective mapped functions:
 6.forward-Index-right  
 7.rewind-Index-left  
 
-~Also tried to increase the functionalty by adding new gestures and mapping them with new functions to increase or decrease speed of the on going media.
+~Also tried to increase the functionalty by adding new gestures in dataset and mapping them with new functions to increase or decrease speed of the on going media.
